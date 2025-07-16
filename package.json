@@ -2,7 +2,7 @@
   "name": "kt-frontend",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://llouis.github.io/kt-frontend",
+  "homepage": "https://llouis0622.github.io/kt-test-frontend",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
