@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/kt-frontend/static/js/main.82288c2b.js",
-    "index.html": "/kt-frontend/index.html",
-    "main.82288c2b.js.map": "/kt-frontend/static/js/main.82288c2b.js.map"
+    "main.js": "/kt-test-frontend/static/js/main.82288c2b.js",
+    "index.html": "/kt-test-frontend/index.html",
+    "main.82288c2b.js.map": "/kt-test-frontend/static/js/main.82288c2b.js.map"
   },
   "entrypoints": [
     "static/js/main.82288c2b.js"
